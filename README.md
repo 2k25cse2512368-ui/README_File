@@ -1,7 +1,7 @@
 # Hi, I'm Shreya 👋
 
 🎓 B.Tech CSE Student  
-💻 Learning C++ & Data Structures and Algorithms  
+💻 Learning Java & Data Structures and Algorithms  
 🌐 Exploring Web Development  
 🤖 Interested in AI/ML  
 🚀 Building projects and improving every day
@@ -22,7 +22,7 @@
 
 ## 📌 What I'm Working On
 
-- Solving DSA problems using C++
+- Solving DSA problems using Java
 - Building beginner-friendly web projects
 - Improving my programming fundamentals
 - Exploring AI/ML projects
